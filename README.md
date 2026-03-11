@@ -7,4 +7,4 @@ Currently building **AMSA** — a pedagogical Clifford Algebra engine unifying r
 ## Work
 - **Robotics Systems** - Assistive technology & differentiable simulation
 - **Genesis** - Contributing to open-source differentiable physics
-- **AMSA** - Clifford algebra infrastructure for real-time robotics
+- **AMSA** - Advanced Multivector Symbolic Architecture Engine
