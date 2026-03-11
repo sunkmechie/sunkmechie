@@ -59,8 +59,15 @@ A pedagogical Clifford Algebra engine unifying rigid body mechanics, kinematics,
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6C36?style=flat-square&logo=verilog&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E6430F?style=flat-square&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-00599C?style=flat-square&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 </div>
